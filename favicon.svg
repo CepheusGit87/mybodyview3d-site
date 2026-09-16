@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="MyBodyView3D">
+  <style>.ink{stroke:#202A35}.ink-t{fill:#202A35}@media (prefers-color-scheme:dark){.ink{stroke:#e8ecf0}.ink-t{fill:#e8ecf0}}</style>
+  <g stroke-linejoin="round" stroke-linecap="round">
+  <path d="M250 190 512 40 774 190" fill="none" stroke="#1665F5" stroke-width="76" />
+  <path class="ink" d="M820 255v305" fill="none" stroke="#202A35" stroke-width="76" />
+  <path d="M774 705 512 856 306 738" fill="none" stroke="#12C7CE" stroke-width="76" />
+  <path d="m120 360 235-136 196 113-235 136z" fill="#1665F5" />
+  <path d="m120 542 235-136 196 113-235 136z" fill="#12C7CE" />
+  </g>
+</svg>
